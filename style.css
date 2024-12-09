@@ -1,0 +1,52 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS',Arial;
+    
+}
+
+main{
+    background-color: white;
+}
+
+header>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    float: left;
+}
+
+header>h1{
+    color: white;
+    float: center;
+}
+
+article>p{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+main>footer{
+    background-color: rgb(48, 78, 78);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+article>img{
+    padding-left: 30px;
+    margin: 5px;
+    margin-right: 20px;
+}
+
+article>h3{
+    padding-left: 30px;
+    padding: 30px;
+    margin-top: 30px;
+    color: rgb(48, 78, 78);
+}
+header>img{
+ padding: 0px;
+ margin: 0px;
+}
